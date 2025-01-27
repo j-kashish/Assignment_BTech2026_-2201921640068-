@@ -1,1 +1,3 @@
-# Assignment_BTech2026_-2201921640068-
+Problem statements
+Coding platform used
+Approach and solution explanation
